@@ -1,7 +1,7 @@
-Hello my name is Borja Soler Reyes.
+Hello my name is Robot Borja.
 
-Describing other person: Normal. Awesome. Lazy. 
+This is the Extra Credit Challenge. 
 
-I like spending time watching tv, specially tv news.
+I make changes to improve my knowledge of git commands and workflow.
 
 
