@@ -1,7 +1,7 @@
-Hello my name is Borja Soler Reyes.
+Hello my name is Robot Borja.
 
-Passionate. Techie. Entrepreneur. 
+This is the Extra Credit Challenge. 
 
-I like spending time watching sports and practicing them, specially football (Soccer). 
+I make changes to improve my knowledge of git commands and workflow.
 
 
